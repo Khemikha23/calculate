@@ -119,7 +119,7 @@ class _CalculatorUIState extends State<CalculatorUI> {
                         buildButton("0", const Color.fromARGB(255, 47, 49, 52)),
                         buildButton("%", const Color.fromARGB(255, 47, 49, 52)),
                         buildButton("C", const Color.fromARGB(255, 47, 49, 52)),
-                        buildButton("+", const Color.fromARGB(255, 181, 120, 29)),
+                        buildButton("++", const Color.fromARGB(255, 181, 120, 29)),
                       ],
                     ),
                     Row(
